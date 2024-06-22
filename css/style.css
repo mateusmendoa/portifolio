@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.footer{
+    background-color: gray;
+    display: flex;
+    padding: 2%;
+    bottom: auto;
+    justify-content: center;
+}
